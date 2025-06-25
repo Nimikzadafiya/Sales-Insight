@@ -1,8 +1,6 @@
 # Sales-Insight
 Data Analysis Using SQL
-# 🧮 Data Analysis Using SQL
 
-This project contains SQL queries used to analyze sales and transaction data from a retail database. The queries cover customer data, transaction filtering, revenue calculation, and data joins. Below are the queries and their purposes.
 
 # Data Analysis Using SQL
 
